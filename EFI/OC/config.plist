@@ -420,19 +420,11 @@
 				<data>AAAbWQ==</data>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,2,0</string>
-				<key>AAPL00,override-no-connect</key>
-				<data>AP///////wAGEHycAAAAAB4cAQS1IxNgAm+xp1VMniUMUFQAAAABAQEBAQEBAQEBAQEBAQEBUNAAoPBwPoAwIDUAWMIQAAAapqYAoPBwPoAwIDUAWMIQAAAaAAAA/QA4TB5TEQAKICAgICAgAAAA/gBORTE1NlFVTS1ONjYKAQg=</data>
 				<key>device-id</key>
 				<data>G1kAAA==</data>
 				<key>device_type</key>
 				<string>VGA compatible controller</string>
 				<key>disable-external-gpu</key>
-				<data>AQAAAA==</data>
-				<key>dpcd-max-link-rate</key>
-				<data>FAAAAA==</data>
-				<key>enable-dpcd-max-link-rate-fix</key>
-				<data>AQAAAA==</data>
-				<key>enable-hdmi20</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con2-enable</key>
 				<data>AQAAAA==</data>
