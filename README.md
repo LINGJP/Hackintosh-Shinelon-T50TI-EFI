@@ -5,8 +5,8 @@
 | Model     | Shinelon T50TI/MacBookPro14,1    | Version        | 11.1                |
 | :-------- | :--------------------------- | :------------- | :------------------ |
 | Processor | Intel Core i5-7300HQ/i7-7700HQ | Graphics       | HD Graphics 630    |
-| Memory    | Micron 2400MHz DDR4 8GB  | Storage        | WD SN750 512GB |
-| Audio     | Realtek ALC265               | WiFi/Bluetooth | Intel Wireless AC-3165   |
+| Memory    | Crucial 2400MHz DDR4 8GB  | Storage        | WD SN750 512GB |
+| Audio     | Realtek ALC269               | WiFi/Bluetooth | Intel Wireless AC-3165   |
 | Display   | NT156FHM-N41 1080P@60HZ            | Monitor        | NE156QUM-N66 4K@60HZ  |
 
 ### Not Working
