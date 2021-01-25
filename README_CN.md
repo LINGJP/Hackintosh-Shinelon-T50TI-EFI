@@ -22,7 +22,7 @@
 
 ### Big Sur
 
-**对于 4K 内屏用户**，WhateverGreen [978cb8](https://github.com/acidanthera/WhateverGreen/commit/978cb8c7a744ac189074225fd8eb2f16feb5a4c0)  能让内屏运行于 60Hz 了，不再需要 48Hz 补丁，请选择config-4K.plist以便更好的使用。
+**对于 4K 内屏用户**，你需要依照[教程](https://lonelyqc.top/Hackintosh/T50TI.html)完成对BIOS的修改，包括解锁CFG LOCK以及修改DVMT至最大，WhateverGreen [978cb8](https://github.com/acidanthera/WhateverGreen/commit/978cb8c7a744ac189074225fd8eb2f16feb5a4c0)  能让内屏运行于 60Hz 了，不再需要 48Hz 补丁，请选择config-4K.plist以便更好的使用。
 
 ### CLOVER 主题
 

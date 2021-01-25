@@ -24,7 +24,7 @@ This config supports Intel Wireless Card, but the default `AirportItlwm.kext` is
 
 ### Big Sur
 
-**For 4k display user**: WhateverGreen with commit [978cb8](https://github.com/acidanthera/WhateverGreen/commit/978cb8c7a744ac189074225fd8eb2f16feb5a4c0) can make panel running at 60Hz, **you no longer need the 48Hz patch**. Please choose config-4K.plist and perfect to use.
+**For 4k display user**: You need to follow [the tutorial]（ https://lonelyqc.top/Hackintosh/T50TI.html ）Complete the modification of BIOS, including unlocking CFG lock and modifying DVMT to the maximum,WhateverGreen with commit [978cb8](https://github.com/acidanthera/WhateverGreen/commit/978cb8c7a744ac189074225fd8eb2f16feb5a4c0) can make panel running at 60Hz, **you no longer need the 48Hz patch**. Please choose config-4K.plist and perfect to use.
 
 ### CLOVER Theme
 
