@@ -12,9 +12,7 @@
 ### Not Working
 
 - DiscreteGPU
-- Unable to sleep
 - HDMI
-- SD Card reader
 
 ## Installation
 
