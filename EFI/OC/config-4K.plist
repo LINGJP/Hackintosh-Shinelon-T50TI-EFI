@@ -24,7 +24,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-DDGPU.aml</string>
+				<string>DGPU: Disable Nvidia discrete GPU (credit @Goshin)</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -32,7 +32,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-EC-USBX.aml</string>
+				<string>Compat: Add PCI0.LPCB.EC device scope for Catalina support</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -48,7 +48,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-GPRW.aml</string>
+				<string>OS: Fix instant wake caused by _GPRW method</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -56,7 +56,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-HPET.aml</string>
+				<string>Motherboard: Fix HPET, IRIQ</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -64,15 +64,15 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-NDGP_OFF.aml</string>
+				<string>CPU: plugin-type=1</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-NDGP_OFF.aml</string>
+				<string>SSDT-PLUG.aml</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-PMC.aml</string>
+				<string>Motherboard: OC NVRAM implementation related</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -80,7 +80,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-PNLF.aml</string>
+				<string>IGPU: CoffeeLake backlight injection</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
