@@ -13,6 +13,7 @@
 
 - DiscreteGPU
 - HDMI
+- Type-C USB3.1 port
 
 ## Installation
 
