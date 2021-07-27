@@ -1,11 +1,11 @@
 ## 配置
 
-| 型号   | Shinelon T50TI/MacBookPro14,1 | 版本   |       11.1          |
+| 型号   | Shinelon T50TI/MacBookPro14,1 | 版本   |       11.5.1          |
 | :----- | :--------------------------- | :----- | :------------------ |
 | 处理器 | Intel Core i5-7300HQ/i7-7700HQ | 图形   | HD Graphics 630    |
 | 内存   | Micron 2400MHz DDR4 8GB x2   | 硬盘   | WD SN750 512GB       |
 | 声卡   | Realtek ALC298               | 网卡   | Intel Wireless AC-3165 |
-| 内屏   | NT156FHM-N41 1080P@60HZ      | 显示器 | NE156QUM-N66 4K@60HZ  |
+| 1080P内屏   | NT156FHM-N41 1080P@60HZ      | 4K内屏 | NE156QUM-N66 4K@60HZ  |
 
 ### 不工作的设备
 
